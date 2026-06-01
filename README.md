@@ -1,4 +1,4 @@
-# 🔍 Spatial Blind Spots: CLIP Failures
+# CLIP Spatial Reasoning: Explainability and Failure Analysis
 ### *A Mechanistic Study of How and Why CLIP Fails at Spatial Reasoning*
 
 **Author:** Shihab Muhtasim · IPCVAI, Universidad Autónoma de Madrid
